@@ -2,14 +2,16 @@
 name: Membership
 about: Join the WalletConnect Association as a member
 title: Membership Request
-labels: ''
+labels: membership
 assignees: ''
 
 ---
 
-We are inviting individuals and organizations to join the WalletConnect Association! The Associate Membership is open to all, other tiers are available as well.
+_We are inviting individuals and organizations to join the WalletConnect Association! The Associate Membership is open to all, other tiers are available as well. If you have any questions before submitting, please join our Discord chat https://discord.walletconnect.org_
 
-Example membership information:
+---
+
+Please fill out the following membership information:
 
 Organization or Individual Name:
 _IBM_
@@ -29,16 +31,5 @@ _@ibm_
 Type:
 _one of Individual, Wallet, Dapp, Foundation, Organization_
 
----
-
-Organization or Individual Name:
-
-Website: 
-
-Logo:
-
-One-line description: 
-
-Twitter handle:
-
-Type:
+Additional comments or questions:
+_Feel free to add any additional comments or questions_
