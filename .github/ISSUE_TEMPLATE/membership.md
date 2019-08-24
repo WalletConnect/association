@@ -14,19 +14,19 @@ _We are inviting individuals and organizations to join the WalletConnect Associa
 Please fill out the following membership information:
 
 Organization or Individual Name:
-_IBM_
+_Insert Name_
 
 Website:
-https://ibm.com
+_www.mywebsite.com_
 
 Logo:
 _attach a logo or link to where it can be downloaded_
 
 One-line description:
-_International Business Machines makes global computers_
+_Insert your tagline description_
 
 Twitter handle:
-_@ibm_
+_@username_
 
 Type:
 _one of Individual, Wallet, Dapp, Foundation, Organization_
