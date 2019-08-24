@@ -12,7 +12,7 @@ The mission of the WalletConnect Association is to enable the broad usage of dig
 
 ## Associate Member
 
-We are inviting people & organizations to join the association! Please make a pull request to add yourself.
+We are inviting people & organizations to join the association! Please [fill out an issue to add yourself as an individual or organization »](https://github.com/WalletConnect/association/issues/new?assignees=&labels=membership&template=membership.md&title=Membership+Request)
 
 This initial call for memberships is open to all who want to help build the association and define its governance, priorities, and investments moving forward.
 
